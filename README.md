@@ -18,7 +18,7 @@ https://figma.com/file/pmer88pSeAiUDVVXk9kM4t/Liveasy?node-id=12:329
 
 Dwonlaod Apk Link:
 ```sh
-https://raw.githubusercontent.com/dsharmaswa12/DeepakSharma-Android-App-development-liveasy\build\app\outputs\flutter-apk\app-release.apk
+https://raw.githubusercontent.com/dsharmaswa12/DeepakSharma-Android-App-development-liveasy\app-release.apk
 ```
 
 <div align="center">
