@@ -20,6 +20,16 @@ Dwonlaod Apk Link:
 ```sh
 https://raw.githubusercontent.com/dsharmaswa12/DeepakSharma-Android-App-development-liveasy\app-release.apk
 ```
+## Testing credentials
+
+| Phone number             | Verification code	                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| 1234567890 | 123456 |
+| 7880361659 | 111111 |
+
+
+## Screenshot
+
 
 <div align="center">
 
